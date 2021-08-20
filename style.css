@@ -1,0 +1,19 @@
+#marquee{
+    background: blue;
+    color: white;
+    font-size: 20px;
+}
+#img_campus{
+    width: 100%;
+}
+#image{
+    text-align: center;
+}
+#details{
+    position: relative;
+    right: 30%;
+    float:right;
+}
+#map{
+    float:left;
+}
