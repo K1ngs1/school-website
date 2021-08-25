@@ -1,3 +1,3 @@
  message(){
-  window.pop('Hi')
+  windows.alert('Hi')
  }
