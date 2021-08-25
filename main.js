@@ -1,3 +1,3 @@
- onclick(){
+ message(){
   window.pop('Hi')
  }
