@@ -1,3 +1,3 @@
- message(){
-  windows.alert('Hi')
+ function message(){
+  alert('Hi')
  }
