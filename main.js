@@ -1,0 +1,3 @@
+ onclick(){
+  window.pop('Hi')
+ }
